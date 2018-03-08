@@ -15,6 +15,9 @@
             "path": "node_modules/cz-conventional-changelog"
         }
     },
+    "engines": {
+        "node": ">=7.6.0"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/vivek-26/koa-openapi3-router.git"
@@ -43,5 +46,11 @@
     "bugs": {
         "url": "https://github.com/vivek-26/koa-openapi3-router/issues"
     },
-    "homepage": "https://github.com/vivek-26/koa-openapi3-router#readme"
+    "homepage": "https://github.com/vivek-26/koa-openapi3-router#readme",
+    "dependencies": {
+        "debug": "^3.1.0",
+        "js-yaml": "^3.11.0",
+        "json-refs": "^3.0.4",
+        "lodash.defaultsdeep": "^4.6.0"
+    }
 }
