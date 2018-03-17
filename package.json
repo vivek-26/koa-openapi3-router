@@ -1,6 +1,6 @@
 {
   "name": "koa-openapi3-router",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": " Koa (v2) Router, based on OpenAPI 3 Doc",
   "main": "index.js",
   "author": "Vivek Kumar",
